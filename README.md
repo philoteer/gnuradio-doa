@@ -3,4 +3,6 @@ Samwhiting's gnuradio-doa ( https://github.com/samwhiting/gnuradio-doa ) GNU Rad
 
 Samwhiting's gnuradio-doa cannot be installed along with Ettus Research's gr-doa (module name conflict). This is one possible workaround to the problem. 
 
-This OoT block is needed to run some of my GRC codes. To install the OoT module, clone this repository and install gr-doa following the standard OoT module installation process (cd gr-doa -> mkdir build -> cd build -> cmake .. -> make -> sudo make install).
+This OoT block is needed to run some of my GRC codes. 
+
+To install the OoT module, clone this repository and install gr-doa following the standard OoT module installation process (cd gr-doa -> mkdir build -> cd build -> cmake .. -> make -> sudo make install).
