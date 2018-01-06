@@ -24,6 +24,7 @@
 
 #include <gnuradio/io_signature.h>
 #include "hold_state_ff_impl.h"
+#include <stdio.h>
 
 namespace gr {
   namespace doa {

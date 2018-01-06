@@ -26,6 +26,7 @@
 #include "full_capon3_ccf_impl.h"
 #include <algorithm>
 #include <numeric>
+#include <stdio.h>
 
 namespace gr {
   namespace doa {

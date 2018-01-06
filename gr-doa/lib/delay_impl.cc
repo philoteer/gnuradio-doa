@@ -27,6 +27,7 @@
 #include "delay_impl.h"
 #include <gnuradio/io_signature.h>
 #include <string.h>
+#include <stdio.h>
 
 namespace gr {
   namespace doa {

@@ -25,6 +25,7 @@
 #include <gnuradio/io_signature.h>
 #include "sample_offset_cci_impl.h"
 #include <algorithm>
+#include <stdio.h>
 
 namespace gr {
   namespace doa {
