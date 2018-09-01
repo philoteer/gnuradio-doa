@@ -42,5 +42,6 @@ install(FILES
     doa_add_const_ff.xml
     doa_phase2doa_ff.xml
     doa_qt_compass.xml
+    twinrx_usrp_source.xml
     doa_hold_state_ff.xml DESTINATION share/gnuradio/grc/blocks
 )
