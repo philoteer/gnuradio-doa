@@ -33,6 +33,7 @@ GR_PYTHON_INSTALL(
     __init__.py
     timestamp_ccf.py
     compass.py
+    twinrx_usrp_source.py
     arrow_f.py DESTINATION ${GR_PYTHON_DIR}/doa
 )
 
